@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio - Pietro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="cristiano.avif" alt="foto de perfil de Pietro" class="profile-pic">
+        <h1>Pietro</h1>
+        <p>Desenvolvedor Web | Criativo | Apaixonado por Tecnologia</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#projetos">Projetos</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section id="sobre">
+        <h2>Sobre mim</h2>
+        <p>Olá! Meu nome é <strong>Pietro</strong>. Sou um desenvolvedor apaixonado por criar experiências digitais únicas.
+             Tenho interesse em desenvolvimento web, design de interfaces e novas tecnologias. </p>
+    </section>
+
+    <section id="projetos">
+        <h2>Projetos</h2>
+        <div class="projetos-container">
+            <div class="projeto">
+                <h3>Projeto 1</h3>
+                <p>Um site de portfólio moderno criado com HTML, CSS e JavaScript.</p>
+            </div>
+            <div class="projeto">
+                <h3>Projeto 2</h3>
+                <p>Aplicativo de tarefas com armazenamento local e design responsivo.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Entre em contato comigo:</p>
+        <ul>
+            <li>Email: <a href="mailto:pietrolucasconceicaodasilva@gmail.com">pietrolucasconceicaodasilva@gmail.com</a></li>
+            <li>LinkedIn: <a href="www.linkedin.com/in/pietro-lucas-conceição-da-silva">www.linkedin.com/in/pietro-lucas-conceição-da-silva</a></li>
+            <li>GitHub: <a href="github.com/pietrodev">github.com/pietrodev</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Pietro. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
 
